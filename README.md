@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">🚀 Building ideas into reality, one line of code at a time.<br><br>I'm a Computer Science graduate and Full Stack Developer passionate about solving real-world problems through technology. I enjoy building responsive web applications, creating intuitive user experiences, and developing reliable backend solutions.<br><br>💻 Experienced with React.js, JavaScript, TypeScript, Node.js, PHP Laravel, and RESTful APIs, with hands-on exposure to CRM systems, FinTech applications, and business solutions.<br><br>💡 Always curious about new technologies, passionate about clean code, and motivated to turn innovative ideas into practical solutions.<br><br>⚡ Always learning. Always building. Always evolving.**</p>
+<p data-importer="text" align="left">I'm a Computer Science graduate and Full Stack Developer passionate about solving real-world problems through technology. I enjoy building responsive web applications, creating intuitive user experiences, and developing reliable backend solutions.<br><br>💻 Experienced with React.js, JavaScript, TypeScript, Node.js, PHP Laravel, and RESTful APIs, with hands-on exposure to CRM systems, FinTech applications, and business solutions.<br><br>💡 Always curious about new technologies, passionate about clean code, and motivated to turn innovative ideas into practical solutions.<br><br>⚡ Always learning. Always building. Always evolving.<br><br>🚀 Building ideas into reality, one line of code at a time.</p>
 
 ###
 
