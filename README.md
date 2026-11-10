@@ -100,7 +100,9 @@
 </div>
 
 ###
+<img data-importer="snake" src="https://raw.githubusercontent.com/ShimalAkeeb1231/ShimalAkeeb1231/snake-output/snake.svg" alt="Snake animation" />
 
+###
 ###
 
 
